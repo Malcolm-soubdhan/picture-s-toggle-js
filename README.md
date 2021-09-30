@@ -1,11 +1,12 @@
 # picture-s-toggle-js
 js snippet to toggle between 2 pictures on click.
 
-/*main steps: 
+/*main steps: */
 
+/*
 1- we define a variable "myImage"; Then, we use a js method, "querySelector", 
-on the DOM object "document". 
-With the method "querySelector", we select the element "img"; 
+on the DOM's object "document". 
+With the method "querySelector", we select the first element "img"; 
 
 2-Then, we put an event listener on the variable, with 2 arguments: 'click',
  and an anonymous function.

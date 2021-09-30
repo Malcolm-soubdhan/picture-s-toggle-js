@@ -19,3 +19,11 @@ With the method "querySelector", we select the first element "img";
  4-Then, we use a conditional structure to etablish that if we get a picture 's src, 
  we want to set the other's picture src instead, to toggle between the two pictures. 
  */
+ 
+ 
+ Picture's credit: 
+ https://burst.shopify.com/photos/orange-tabby-cat-prowling-through-grass-and-plants?q=cat
+ https://burst.shopify.com/photos/search?utf8=%E2%9C%93&q=lion&button=
+ 
+ 
+ 

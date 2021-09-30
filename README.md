@@ -1,4 +1,4 @@
-# pictures-toggle-js
+# pictures-toggle-javascript
 js snippet to toggle between 2 pictures on click.
 
 /*main steps: */
